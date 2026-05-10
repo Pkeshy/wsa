@@ -7,6 +7,7 @@
         body { font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; background: #f9f9f9; }
         .profile { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         h1 { color: #4CAF50; }
+        <p style="color: green; font-weight: bold;">✅ Last updated: May 10, 2026 - Git Pull Demonstration</p>
     </style>
 </head>
 <body>
